@@ -2,7 +2,7 @@
 <h3>Web Geliştiricisi</h3>
 
 <p>Sayfama hoşgeldin :smile: </br>
-Ben İrem, github üzerindeki projelerimde hem kendi bilgi birikimimi hem de yaratıcı fikirlerimi paylaşıyorum ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum..</p>
+Ben İrem, Github üzerindeki projelerimde hem kendi bilgi birikimimi hem de yaratıcı fikirlerimi paylaşıyorum ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum..</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
