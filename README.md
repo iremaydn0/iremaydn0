@@ -15,6 +15,8 @@ Ben İrem, Github üzerindeki projelerimde hem kendi bilgi birikimimi hem de yar
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flutter-02569B?logo=Flutter)
+
 
 
 <h3 align="left">Connect with me:</h3>
