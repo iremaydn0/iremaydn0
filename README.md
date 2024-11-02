@@ -1,5 +1,5 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Heyy Seni Görmek Güzel</h1>
-<h3>Web Geliştiricisi</h3>
+<h3>Flutter Geliştiricisi</h3>
 
 <p>Sayfama hoşgeldin :smile: </br>
 Ben İrem, Github üzerindeki projelerimde hem kendi bilgi birikimimi hem de yaratıcı fikirlerimi paylaşıyorum ve açık kaynak topluluğuna katkıda bulunmaya çalışıyorum..</p>
